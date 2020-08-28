@@ -1,0 +1,62 @@
+{
+    "version": "1.0",
+    "sourceName": "小米12923官方源",
+    "sourceAuthor": "小米12923",
+    "sourceLinkTitle": "个人网站",
+    "sourceLinkUrl": "http://taoancuts.mysxl.cn",
+    "sourceImage": "https://xs1.imd.im/avatar/200828/cy0rLBsJR.jpg",
+    "sourceUpdateTime": "2020-08-28T07:48:00+0800",
+    "sourceDescription": "小米12923的Gbox源",
+    "appCategories": [
+        "个人",
+        "证书",
+        "破解版软件"
+    ],
+    "appRepositories": [
+        {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-08-28T07:10:57+0800",
+            "appName": "小米12923快捷指令",
+            "appVersion": "1.0",
+            "appImage": "https://xs1.imd.im/avatar/200828/cy0rLBsJR.jpg",
+            "appPlist": "http://jyh12923.gitee.io/download/app.mobileconfig",
+            "appDescription": "作者个人永不闪退app，下载后请按照提示操作！"
+        },
+        
+        {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-08-28T08:16:00+0800",
+            "appName": "小米12923 QQ交流群",
+            "appVersion": "1.0",
+            "appImage": "https://xs1.imd.im/avatar/200828/5gCVXDBaC.jpg",
+            "appPlist": "https://jq.qq.com/?_wv=1027&k=O4zegcPL",
+            "appDescription": "欢迎加入QQ群交流！"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-28T08:02:00+0800",
+            "appName": "暂无可用的企业证书",
+            "appVersion": "1.0",
+            "appImage": "https://xs1.imd.im/avatar/200828/SOHKBVUaD.jpg",
+            "appPlist": "http://taoancuts.mysxl.cn",
+            "appDescription": "无证书，有了会在源内更新！"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2020-08-28T08:26:00+0800",
+            "appName": "Reeder 4",
+            "appVersion": "4.2.5",
+            "appImage": "https://cydia-app.com/wp-content/uploads/2019/07/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "appPlist": "https://gbox.lanzous.com/iNiVDf2iygf",
+            "appDescription": "Reeder 4正版的备份ipa，需要自取～"
+        },
+        
+    ]
+    
+}
